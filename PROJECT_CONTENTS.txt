@@ -1,0 +1,11 @@
+Trade Reconciliation Model portfolio package
+
+README.md
+Trade_Reconciliation_Model.xlsx
+data/internal_trades.csv
+data/broker_trades.csv
+sql/01_create_tables.sql
+sql/02_reconciliation_checks.sql
+docs/data_dictionary.md
+docs/resume_bullets.md
+docs/presentation_guide.md
